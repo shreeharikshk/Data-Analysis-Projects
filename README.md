@@ -1,6 +1,6 @@
 # 📊 Data Analytics & Business Intelligence Portfolio
 
-Hi, I'm **Sanele Siyabonga Thusi** - a Data Analyst & BI Developer based in South Africa.
+Hi, I'm **Shreehari Gururaj Kulkarni** - Enthusiastic Information Science Engineering fresher with a passion for data analysis and strong skills in Excel, SQL, Power BI and Python.
 
 I build end-to-end analytics solutions: from data modeling and SQL analysis to Power BI dashboards that turn raw data into clear business decisions.
 
@@ -211,20 +211,20 @@ Transaction and revenue analytics for a payments platform including merchant per
 
 ## 🎓 Education & Certifications
 
-- BCom Information Technology Management - Mancosa *(2026-2029)*
-- Cybersecurity SLP - University of Johannesburg
-- Intelligent Systems Development (TensorFlow) - University of Johannesburg
-- AI Fluency: Frameworks and Foundations - Anthropic
-- Introduction to Agent Skills - Anthropic
-- Data Analytics Essentials - Cisco
-- Python Essentials 1 - Cisco
-- Introduction to Data Science - Cisco
+- Bachelor of Engineering (B.E) – Information Science :	Sai Vidya Institute Of Technology, Bengaluru ; CGPA: 8.62 (2022 – 2026)
+- Introduction to MS Excel
+- Excel Macros & VBA for Beginners
+- Introduction to SQL
+- Power BI for Beginners
+- Mastering Power BI
+- Python for Data Analysis
+- Data Analyst 101
 
 ---
 
 ## 📬 Contact
 
-📧 thusisanelelele@gmail.com
-🐙 [GitHub](https://github.com/STCybersec)
+📧 rkgururaj7@gmail.com
+🐙 [GitHub](https://github.com/shreeharikshk)
 
 > *"Data is only valuable when it drives better decisions."*
