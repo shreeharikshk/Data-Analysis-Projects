@@ -44,11 +44,4 @@ against a local SQL Server instance with the database `Project5_SupplyChain` cre
 
 ---
 
-## Contact
-
-For the full 500,000 row dataset contact:
-📧 thusisanelelele@gmail.com
-
----
-
-*Part of the [Supply Chain Control Tower Project](../README.md) by Sanele Siyabonga Thusi*
+#DataAnalysis
