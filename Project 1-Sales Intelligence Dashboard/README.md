@@ -102,4 +102,4 @@ Project1-Sales-Intelligence/
 
 ---
 
-*Part of the [Data Analytics & BI Portfolio](https://github.com/STCybersec/Data-Analysis-BI---Portfolio/tree/main) by Sanele Siyabonga Thusi*
+#DataAnalysis
