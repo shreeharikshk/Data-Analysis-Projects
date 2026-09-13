@@ -38,10 +38,9 @@ Data-Analysis-BI---Portfolio/
 │   └── README.md
 │
 ├── Project 2-Customer Retention/
-├── Project 3-Healthcare Operations/
-├── Project 4-Government Service Delivery/
+
 ├── Project 5-Supply Chain Control Tower/
-├── Project 6-Fintech Revenue Analytics/
+
 │
 ├── Python-Data-Cleaning/
 │   ├── Sales Intelligence Dashboard/
@@ -52,29 +51,8 @@ Data-Analysis-BI---Portfolio/
 
 ---
 
-## 📁 BI & Analytics Projects
-
-| # | Project | Industry | Status |
-|---|---------|----------|--------|
-| 1 | [Sales Intelligence Dashboard](https://github.com/STCybersec/Data-Analysis-BI---Portfolio/tree/main/Project%201-Sales%20Intelligence%20Dashboard) | Retail | ✅ Complete |
-| 2 | [Customer Retention Analytics](https://github.com/STCybersec/Data-Analysis-BI---Portfolio/tree/main/Project%202-Customer%20Retention) | E-Commerce | ✅ Complete |
-| 3 | [Healthcare Operations Dashboard](https://github.com/STCybersec/Data-Analysis-BI---Portfolio/tree/main/Project%203-Healthcare%20Operations) | Healthcare | ✅ Complete |
-| 4 | [Government Service Delivery Analytics](https://github.com/STCybersec/Data-Analysis-BI---Portfolio/tree/main/Project%204-Government%20Service%20Delivery) | Public Sector | ✅ Complete |
-| 5 | [Supply Chain Control Tower](https://github.com/STCybersec/Data-Analysis-BI---Portfolio/tree/main/Project%205-Supply%20Chain%20Control%20Tower) | Logistics | ✅ Complete |
-| 6 | [Fintech Revenue Analytics](https://github.com/STCybersec/Data-Analysis-BI---Portfolio/tree/main/Project%206-Fintech%20Revenue%20Analytics) | Financial Services | ✅ Complete |
 
 ---
-
-## 🐍 Python - Data Cleaning
-
-| # | Dataset | Linked Project | Status |
-|---|---------|----------------|--------|
-| 1 | [Sales Intelligence Dashboard](https://github.com/STCybersec/Data-Analysis-BI---Portfolio/tree/main/Python-Data-Cleaning/Sales_Intelligence_Dashboard) | Project 1 - Sales Intelligence Dashboard | ✅ Complete |
-| 2 | [Customer Retention Analytics](https://github.com/STCybersec/Data-Analysis-BI---Portfolio/tree/main/Python-Data-Cleaning/Customer_Retention) | Project 2 - Customer Retention Analytics | ✅ Complete |
-| 3 | [Healthcare Operations Dashboard](https://github.com/STCybersec/Data-Analysis-BI---Portfolio/tree/main/Python-Data-Cleaning/Healthcare_Operations) | Project 3 - Healthcare Operations Dashboard | ✅ Complete |
-| 4 | [Government Service Delivery Analytics](https://github.com/STCybersec/Data-Analysis-BI---Portfolio/tree/main/Python-Data-Cleaning/Government_Service_Delivery) | Project 4 - Government Service Delivery Analytics | ✅ Complete |
-| 5 | [Supply Chain Control Tower](https://github.com/STCybersec/Data-Analysis-BI---Portfolio/tree/main/Python-Data-Cleaning/Supply_Chain_Control_Tower) | Project 5 - Supply Chain Control Tower | ✅ Complete |
-| 6 | [Fintech Revenue Analytics](https://github.com/STCybersec/Data-Analysis-BI---Portfolio/tree/main/Python-Data-Cleaning/Fintech_Revenue_Analytics) | Project 6 - Fintech Revenue Analytics | ✅ Complete |
 
 **What this section demonstrates:**
 - Identifying and handling missing values
@@ -85,8 +63,6 @@ Data-Analysis-BI---Portfolio/
 - Producing clean, analysis-ready datasets using Python & pandas
 
 > *The cleaned datasets in this section feed directly into the SQL Server data warehouse and Power BI dashboards in the BI projects above — demonstrating a full end-to-end data pipeline.*
-
-[📂 View Python Data Cleaning →](https://github.com/STCybersec/Data-Analysis-BI---Portfolio/tree/main/Python-Data-Cleaning)
 
 ---
 
@@ -115,7 +91,6 @@ A full end-to-end sales analytics project built on a star schema data warehouse 
 - Python - data cleaning pipeline (see Python-Data-Cleaning folder)
 - Power BI dashboard with KPI cards, trend charts, regional mappings
 
-[📂 View Project →](https://github.com/STCybersec/Data-Analysis-BI---Portfolio/tree/main/Project%201-Sales%20Intelligence%20Dashboard)
 
 ---
 
@@ -144,42 +119,10 @@ Customer behaviour analytics focused on segmentation, lifetime value, acquisitio
 - SQL - CLV calculations, acquisition trends, return rate analysis
 - Power BI - map visuals, segment analysis, MoM & YoY growth tracking
 
-[📂 View Project →](https://github.com/STCybersec/Data-Analysis-BI---Portfolio/tree/main/Project%202-Customer%20Retention)
-
 ---
 
-## Project 3 - Healthcare Operations Dashboard
 
-**Industry:** Healthcare | **Status:** ✅ Complete
-
-Hospital operations analytics focused on patient flow, bed occupancy, and department workload.
-
-**Business Questions Answered:**
-- What is daily patient admission volume?
-- What is average patient stay duration?
-- Which departments are under most pressure?
-- What is bed occupancy rate?
-
-[📂 View Project →](https://github.com/STCybersec/Data-Analysis-BI---Portfolio/tree/main/Project%203-Healthcare%20Operations)
-
----
-
-## Project 4 - Government Service Delivery Analytics
-
-**Industry:** Public Sector | **Status:** ✅ Complete
-
-Tracking government service requests, resolution times, and departmental performance.
-
-**Business Questions:**
-- How many service requests are received per region?
-- What is the average resolution time per department?
-- Which departments have the highest backlog?
-
-[📂 View Project →](https://github.com/STCybersec/Data-Analysis-BI---Portfolio/tree/main/Project%204-Government%20Service%20Delivery)
-
----
-
-## Project 5 - Supply Chain Control Tower
+## Project 3 - Supply Chain Control Tower
 
 **Industry:** Logistics | **Status:** ✅ Complete
 
@@ -190,24 +133,8 @@ End-to-end supply chain analytics tracking shipments, warehouse efficiency, and 
 - Which warehouses process the most orders?
 - Where are delays happening?
 
-[📂 View Project →](https://github.com/STCybersec/Data-Analysis-BI---Portfolio/tree/main/Project%205-Supply%20Chain%20Control%20Tower)
-
 ---
 
-## Project 6 - Fintech Revenue Analytics
-
-**Industry:** Financial Services | **Status:** ✅ Complete
-
-Transaction and revenue analytics for a payments platform including merchant performance and payment method analysis.
-
-**Business Questions:**
-- Which payment methods generate the most revenue?
-- What is daily transaction volume?
-- Which merchants process the most payments?
-
-[📂 View Project →](https://github.com/STCybersec/Data-Analysis-BI---Portfolio/tree/main/Project%206-Fintech%20Revenue%20Analytics)
-
----
 
 ## 🎓 Education & Certifications
 
