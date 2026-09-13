@@ -1,4 +1,4 @@
-# 🚚 Project 5  Supply Chain Control Tower
+# 🚚 Project 3  Supply Chain Control Tower
 
 **Industry:** Logistics & Supply Chain
 **Tools:** SQL Server · Power BI · Python · Star Schema Modelling
@@ -104,4 +104,4 @@ Project5-Supply-Chain-Control-Tower/
 
 ---
 
-*Part of the [Data Analytics & BI Portfolio](https://github.com/STCybersec/Data-Analysis-BI---Portfolio/tree/main) by Sanele Siyabonga Thusi*
+#DataAnalytics
